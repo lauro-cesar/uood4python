@@ -1,0 +1,12 @@
+[run]
+branch = True
+
+[report]
+fail_under = 100
+show_missing = True
+exclude_lines =
+    # Re-enable the standard pragma
+    pragma: NO COVER
+    pragma: NO PY${PY_VERSION} COVER
+omit =
+  */settings.py

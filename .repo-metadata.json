@@ -1,0 +1,10 @@
+{
+  "name": "uood4python",
+  "name_pretty": "Universal Oriented Datastore",
+  "client_documentation": "https://lauro-cesar.github.io/uood4python/",
+  "issue_tracker": "https://github.com/lauro-cesar/uood4python/issues",
+  "release_level": "development",
+  "language": "python",
+  "repo": "lauro-cesar/uood4python",
+  "distribution_name": "uood4python"
+}
